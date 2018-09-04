@@ -13,7 +13,7 @@ Github Link: https://sahilit.github.io/arcade_game/ <br>
 ## How To Play
 
 - The main aim of the game is to finish the game by taking the player boy to the river without colliding with any bug.
-- You can move the player left, right, up and down with the help of arrow key.
+- You can move the player left, right, up and down with the help of arrow keys of keyboard.
 - After successfully completing the game you will see a Congratulation message and the game will restart.
 
 ## License
