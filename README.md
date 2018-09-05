@@ -10,6 +10,9 @@ Github Link: https://sahilit.github.io/arcade_game/ <br>
 - JavaScript
 - JavaScript ES6 Concept.
 
+## How To Download and Play Locally
+- To Download or Clone the game click on the clone or download button present in top right or [click here](https://codeload.github.com/sahilit/arcade_game/zip/master).
+
 ## How To Play
 
 - The main aim of the game is to finish the game by taking the player boy to the river without colliding with any bug.
