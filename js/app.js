@@ -73,10 +73,11 @@ class Player {
         }
 
         //Player Win Restart Game 
+        const playerWin = this;
         if (this.y < 0) {
             setTimeout(() => {
-                player.x = 202;
-                player.y = 404;
+                playerWin.x = 202;
+                playerWin.y = 404;
                 alert("Congratulation! You Won!");
             }, 600);
         }
