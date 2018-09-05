@@ -11,7 +11,8 @@ Github Link: https://sahilit.github.io/arcade_game/ <br>
 - JavaScript ES6 Concept.
 
 ## How To Download and Play Locally
-- To Download or Clone the game click on the clone or download button present in top right or [click here](https://codeload.github.com/sahilit/arcade_game/zip/master).
+- To Download or Clone the game click on the 'Clone or download' button present in top right or [click here](https://codeload.github.com/sahilit/arcade_game/zip/master).
+- To Play the game locally just open the index.html file.
 
 ## How To Play
 
