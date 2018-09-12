@@ -7,7 +7,7 @@ Github Link: https://sahilit.github.io/arcade_game <br>
 
 ## Resources
 
-- JavaScript.
+- JavaScript OOPs Concept.
 - JavaScript ES6 Concept.
 
 ## How To Download and Play Locally
