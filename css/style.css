@@ -1,4 +1,5 @@
-body {text-align: center; box-sizing:border-box;}
+* {box-sizing:border-box;}
+body {text-align: center;}
 
 .control-btn {position: absolute; bottom: 20%; left:5%;}
 .control-btn div {width:100px; height:100px; background:#555; border-radius:10px; background:#92929254; color:#000000b5; font-size:60px; padding: 10px 0 0;}
