@@ -3,7 +3,7 @@
 ## Description
 
 This is a Arcade Game made using Javascript OOPS concept.<br>
-Github Link: https://sahilit.github.io/arcade_game/ <br>
+Github Link: https://sahilit.github.io/arcade_game <br>
 
 ## Resources
 
