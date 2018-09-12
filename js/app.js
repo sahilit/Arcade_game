@@ -119,9 +119,7 @@ function bright() {if(player.x < 405) player.x += 102;}
 function bbottom() {if(player.y < 405) player.y += 83;}
 
 if (player.y < 0) {
-   setTimeout(() => {
       player.x = 202;
       player.y = 404;
       alert("Congratulation! You Won!");
-   }, 600);
 }
