@@ -2,7 +2,8 @@
 body {text-align: center;}
 
 .control-btn {position: absolute; bottom: 20%; left:5%;}
-.control-btn div {width:100px; height:100px; background:#555; border-radius:10px; background:#92929254; color:#000000b5; font-size:60px; padding: 10px 0 0;}
+.control-btn div {width:100px; height:100px; background:#555; border-radius:10px; background:#92929254;}
+.control-btn div i {color:#000000b5; font-size:30px; padding: 10px 0 0;}
 .control-btn .top {margin: auto;}
 .control-btn .left {float:left;}
 .control-btn .right {float:right;}
@@ -20,7 +21,7 @@ aside {width:300px; margin:auto;}
 	canvas {width:400px;}
 	.control-btn {width:100%; bottom:20px; left:0px;} 
 	aside {width:210px; margin:auto;}
-	.control-btn div {width:70px; height:70px; padding:0;}
+	.control-btn div {width:70px; height:70px;}
 }
 
 @media screen and (max-width: 420px) {
